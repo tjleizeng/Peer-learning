@@ -1,5 +1,5 @@
 # Human mobility
-Human mobility is important because it can shad some light on the practice of transportation planning, design and policy making.
+Human mobility is important because it can shed some light on the practice of transportation planning, design and policy making.
 
 ## Relevant papers
 - Gonzalez, M. C., Hidalgo, C. A., & Barabasi, A. L. (2008). Understanding individual human mobility patterns. nature, 453(7196), 779.
