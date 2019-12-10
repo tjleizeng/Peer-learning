@@ -1,4 +1,4 @@
-# AV simulation
+# AVs' policy
 This folder stores the resources of the policies related to AVs.
 
 ## Relevant papers
