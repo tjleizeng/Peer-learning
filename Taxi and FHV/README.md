@@ -1,2 +1,2 @@
 # AV simulation
-This folder stores the resources of the work on describing, modeling and optimizing the taxi/FHV system.
+This folder stores the resources of papers on describing, modeling and optimizing the taxi/FHV system.
