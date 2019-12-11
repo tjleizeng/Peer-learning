@@ -1,5 +1,5 @@
 # Machine learning
-Machine learning is a set of tools, but how to adopt it in transportation system?
+Machine learning is a set of tools, but how to adopt it in cities?
 
 ## Relevant papers
 - Qian, X., Ukkusuri, S. V., Yang, C., & Yan, F. (2017). Forecasting short-term taxi demand using boosting-GCRF. In The 6th International Workshop on Urban Computing (UrbComp 2017).
