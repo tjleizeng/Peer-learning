@@ -1,5 +1,5 @@
 # AV adoption
-This folder stores the resources of the market investigation interms of AVs.
+This folder stores the resources of the market investigation in terms of AVs.
 
 ## Relevant papers
 - Bansal, P., & Kockelman, K. M. (2017). Forecasting Americans’ long-term adoption of connected and autonomous vehicle technologies. Transportation Research Part A: Policy and Practice, 95, 49-63.
