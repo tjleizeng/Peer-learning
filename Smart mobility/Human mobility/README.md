@@ -7,3 +7,4 @@ Human mobility is important because it can shed some light on the practice of tr
 - Schneider, C. M., Belik, V., Couronné, T., Smoreda, Z., & González, M. C. (2013). Unravelling daily human mobility motifs. Journal of The Royal Society Interface, 10(84), 20130246.
 - McNally, M. G., & Rindt, C. R. (2007). The activity-based approach. In Handbook of Transport Modelling: 2nd Edition (pp. 55-73). Emerald Group Publishing Limited.
 - Chen, C., Ma, J., Susilo, Y., Liu, Y., & Wang, M. (2016). The promises of big data and small data for travel behavior (aka human mobility) analysis. Transportation research part C: emerging technologies, 68, 285-299.
+- Fan, Z., Song, X., & Shibasaki, R. (2014, September). CitySpectrum: a non-negative tensor factorization approach. In Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (pp. 213-223). ACM.
